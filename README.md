@@ -1,3 +1,3 @@
 # latihan-branch
 
-Repository latihan branch aja
+Repository latihan branch aja hehehe
